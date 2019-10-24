@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d65f530dcad144f5954783143663b6ca, type: 3}
+  m_Name: GoalUiItems
+  m_EditorClassIdentifier: Assembly-CSharp::GoalUiItems
+  blueCubeGoalSprite: {fileID: 21300000, guid: d7a7587b411fa4dfba290c9c750277fe, type: 3}
+  redCubeGoalSprite: {fileID: 21300000, guid: 653728f1a562140d19ec8280e4bc8212, type: 3}
+  greenCubeGoalSprite: {fileID: 21300000, guid: 64e0713c5b36345c3b7d57cbc16fff9b,
+    type: 3}
+  yellowCubeGoalSprite: {fileID: 21300000, guid: 57b145eccd7d84c08943bfe5d5d52ab2,
+    type: 3}
+  beeGoalSprite: {fileID: 21300000, guid: 1f13a1442e3b94f36be0797e19b5fe5d, type: 3}
+  toastGoalSprite: {fileID: 21300000, guid: 5569472608d8e49819a7519006b857ab, type: 3}
+  bowlingGoalSprite: {fileID: 21300000, guid: 4e4cdabb0db634cd2b6169345f61e930, type: 3}
+  toy0GoalSprite: {fileID: 21300000, guid: 24830e939bea04ffab34e36fc7c23794, type: 3}
+  toy1GoalSprite: {fileID: 21300000, guid: cfb8d68b3dcc14a6ba3b3126aa2a7863, type: 3}
+  toy2GoalSprite: {fileID: 21300000, guid: 7bb2488de12b94afcb6d238146fbe885, type: 3}
+  toy3GoalSprite: {fileID: 21300000, guid: 1ba46d63738894765a5722475fc45949, type: 3}
+  toy4GoalSprite: {fileID: 21300000, guid: 0f0e630d0d0ee4d88ac236fc83b19cee, type: 3}
+  toy5GoalSprite: {fileID: 21300000, guid: 27e25020f85c2481a8974a737eb0c0db, type: 3}
+  toy6GoalSprite: {fileID: 21300000, guid: 88cd1412be29c44579843f58553cd302, type: 3}
+  toy7GoalSprite: {fileID: 21300000, guid: cc079980294c1477da679c6782c547fe, type: 3}
+  bubbleGoalSprite: {fileID: 21300000, guid: d6633b95134f34f008d1cd5940b009eb, type: 3}
+  beachBallSprite: {fileID: 21300000, guid: daa9bb11858e74c38864c24285414dcd, type: 3}
+  candyMonsterSprite: {fileID: 21300000, guid: 421c035d429ca4470acbbc22c4b3ad37, type: 3}
+  legoSprite: {fileID: 21300000, guid: 91c6216bc55ea48efbccead638c7c554, type: 3}
+  cageSprite: {fileID: 21300000, guid: fe5076c6e89b84d86a81c7c27d5da7d8, type: 3}
+  colorLego: {fileID: 21300000, guid: 2f66347a27f2147a2b716a5c241699cc, type: 3}
+  piggy: {fileID: 21300000, guid: 8849a349bd7954e09ae0434cf50aebb8, type: 3}
+  pinWheel: {fileID: 21300000, guid: 2279ab31b15ed443c8d1b3d7293736b0, type: 3}
+  egg: {fileID: 21300000, guid: 962ad0d35a57848e4a6efeca6752141a, type: 3}
+  soap: {fileID: 21300000, guid: 872fd08df763345508d8b893e2e0ba8f, type: 3}
+  candyJar: {fileID: 21300000, guid: 07cf98a2b6f314c71a7f9a75451eb4a8, type: 3}
+  pumpkin: {fileID: 21300000, guid: ae56802970da24fd4beca95fa82d662f, type: 3}
+  metalLego: {fileID: 21300000, guid: 52548d4611eec4f0fac21f7cf25eebc8, type: 3}
+  ufo: {fileID: 21300000, guid: 6a59f33bade3340e0a4562606e6b26c2, type: 3}
+  potion: {fileID: 21300000, guid: 842cd35d5cde0453f97991a09004c253, type: 3}
+  snowman: {fileID: 21300000, guid: be97ab8097df0436ea96b37230d14cca, type: 3}
+  gum: {fileID: 21300000, guid: fdd7380a1e4834c22934d7a2574cf788, type: 3}
+  statue: {fileID: 21300000, guid: dcde37d45bfc54add915214e5d223800, type: 3}
+  duck: {fileID: 21300000, guid: 9f5d34e5267f64a3197b340c071538b7, type: 3}
